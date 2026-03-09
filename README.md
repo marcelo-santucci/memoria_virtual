@@ -8,5 +8,5 @@ Identificar la manera en que se asigna la memoria por parte del sistema operativ
 
 + memofor.c :- Programa con ciclo de ejecución para verificar cambio de valor de variable pero dirección en memoria constante.
 
-🔎¿Por qué no se sobrescriben los valores que muestran los programas?
+❓¿Por qué no se sobrescriben los valores que muestran los programas?
 🛡️¿Funcionamiento esperado? ¿Se trata de algún mecanismo de protección?
